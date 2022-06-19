@@ -1,0 +1,24 @@
+
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+
+.Title{
+    text-align: center;
+    font-style: bold;
+}
+.image{
+    height: auto;
+    width: auto;
+    object-fit: contain;
+    max-height;
+
+}
+
+.ing{
+    font-style: normal;
+
+
+}
